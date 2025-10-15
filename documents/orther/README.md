@@ -1,4 +1,4 @@
-# CanaSmart — Modo Local (sem Oracle) — v2
+# CanaSmart — Modo Local — v2
 
 Projeto **CLI** para registrar colheitas de cana, calcular **perdas (%)**, **KPIs**, **detectar outliers** e **ATUALIZAR registros**.
 
