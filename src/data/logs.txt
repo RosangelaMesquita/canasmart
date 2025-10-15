@@ -1,0 +1,4 @@
+CanaSmart logs
+2025-10-15T18:38:48.601100 | novo registro 30 perda=25.0% (local)
+2025-10-15T18:40:46.232101 | novo registro 30 perda=25.0% (local)
+2025-10-15T18:47:30.978074 | novo registro T-JAN-05 perda=42.0% (local)

@@ -1,0 +1,56 @@
+[
+  {
+    "talhao_id": "T-01",
+    "data": "2025-08-01",
+    "equipamento": "Colhedora-01",
+    "massa_pre": 100000.0,
+    "massa_pos": 85000.0,
+    "perda_percentual": 15.0,
+    "tecnologia": "média"
+  },
+  {
+    "talhao_id": "T-02",
+    "data": "2025-08-03",
+    "equipamento": "Colhedora-02",
+    "massa_pre": 98000.0,
+    "massa_pos": 90000.0,
+    "perda_percentual": 8.16,
+    "tecnologia": "alta"
+  },
+  {
+    "talhao_id": "T-99",
+    "data": "2025-10-15",
+    "equipamento": "Teste",
+    "massa_pre": 200.0,
+    "massa_pos": 150.0,
+    "perda_percentual": 25.0,
+    "tecnologia": "média"
+  },
+  {
+    "talhao_id": "30",
+    "data": "2025-10-15",
+    "equipamento": "colheitadeira",
+    "massa_pre": 200.0,
+    "massa_pos": 150.0,
+    "perda_percentual": 25.0,
+    "tecnologia": "média"
+  },
+  {
+    "talhao_id": "30",
+    "data": "2025-10-15",
+    "equipamento": "colheitadeira",
+    "massa_pre": 200.0,
+    "massa_pos": 150.0,
+    "perda_percentual": 25.0,
+    "tecnologia": "média"
+  },
+  {
+    "talhao_id": "T-JAN-05",
+    "data": "2025-10-15",
+    "equipamento": "colheitadeira",
+    "massa_pre": 200.0,
+    "massa_pos": 116.0,
+    "perda_percentual": 42.0,
+    "tecnologia": "alta"
+  }
+]
